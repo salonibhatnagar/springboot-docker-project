@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:16-alpine3.13
 MAINTAINER saloni bhatnagar<saloni@gmail.com>
 VOLUME /tmp
 EXPOSE 8080
